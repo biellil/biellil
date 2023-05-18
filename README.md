@@ -33,6 +33,9 @@
 <div> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biellil&show_icons=true&theme=dracula)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biellil)](https://github.com/biellil/github-readme-stats)
   
 
 ![Snake animation](https://github.com/biellil/biellil/blob/output/github-contribution-grid-snake.svg)
