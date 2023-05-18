@@ -4,7 +4,7 @@
   <a href="https://github.com/biellil">
   <img width="auto" height="180em" src="https://github-readme-stats.vercel.app/api?username=biellil&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
-  <img width="auto" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellil&layout=donut&theme=tokyonight&include_all_commits=true&count_private=false&langs_count=10"/>
+  <img width="auto" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellil&layout=donut&theme=tokyonight&include_all_commits=true&count_private=false&langs_count=5"/>
 </div>
 
 <div style="display: inline_block"><br>
