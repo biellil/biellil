@@ -35,7 +35,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biellil&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biellil&layout=compact&langs_count=7&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biellil&layout=compact&theme=tokyonight)
 
 ![Snake animation](https://github.com/biellil/biellil/blob/output/github-contribution-grid-snake.svg)
 
