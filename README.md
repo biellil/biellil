@@ -27,7 +27,7 @@
   <a href = "mailto:biel13biel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josé-gabriel-683b5423a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/bi3llil">  <img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
- <a href="https://biellil.github.io/Portfolio/">  <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+ <a href="https://biellil.github.io/portfolio/">  <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
 
 <div> 
