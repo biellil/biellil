@@ -15,8 +15,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-
-
     # Repositorio que será utilizado para gerar os arquivos.
       - uses: Platane/snk@v3
         id: snake-gif
