@@ -1,6 +1,6 @@
  ## Ola eu sou a josé gabriel (biellil) ,desenvolvedor Front-End!
 
-<div align="center">
+<div  style=" display: flex; gap: 0.5rem; align-items: center;">
   <a href="https://biellil.github.io/portfolio/">
   <img width="auto" height="180rem" src="https://github-readme-stats.vercel.app/api?username=biellil&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
@@ -17,7 +17,7 @@
 
    <img  align="center" alt="biel-firebase" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 
-</div  style=" display: flex; gap: 0.5rem;">
+</div  style=" display: flex; gap: 0.5rem; align-items: center;">
   
   ##
  
