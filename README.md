@@ -17,7 +17,7 @@
 
    <img  align="center" alt="biel-firebase" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 
-</div>
+</div  style=" display: flex; gap: 0.5rem;">
   
   ##
  
