@@ -2,9 +2,9 @@
 
 <div  style=" display: flex; gap: 0.5rem; align-items: center;">
   <a href="https://biellil.github.io/portfolio/">
-  <img width="auto" height="180rem" src="https://github-readme-stats.vercel.app/api?username=biellil&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img width="auto" height="100vh" src="https://github-readme-stats.vercel.app/api?username=biellil&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
-  <img width="auto" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellil&layout=donut&theme=tokyonight&count_private=false&langs_count=5&hide=cMake"/>
+  <img width="auto" height="100vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellil&layout=donut&theme=tokyonight&count_private=false&langs_count=5&hide=cMake"/>
 </div>
 
 <div style="display: inline_block"><br>
