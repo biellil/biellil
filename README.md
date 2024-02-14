@@ -2,8 +2,8 @@
 
 <div  style=" display: flex; gap: 0.5rem; align-items: center;">
   <a href="#">
-  <img width="auto" height="auto" src="https://github-readme-stats.vercel.app/api?username=biellil&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-
+ /* <img width="auto" height="auto" src="https://github-readme-stats.vercel.app/api?username=biellil&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+*/
   <img width="auto" height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellil&layout=donut&theme=tokyonight&count_private=false&langs_count=5&hide=cMake"/>
 </div>
 
