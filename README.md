@@ -1,6 +1,6 @@
  <h1 align="center">Olá, eu sou José Gabriel (biellil) 👋</h1>
 
-<h3 align="center">Desenvolvedor Front-End apaixonado por criar experiências web incríveis</h3>
+<h3 align="center">Desenvolvedor Front-End apaixonado por criar experiências web incríveis, com experiência em automação, IA, Docker e VPS, explorando Back-End</h3>
 
 <p align="center">
   <!-- <a href="https://biellil.github.io/portfolio/">
