@@ -56,13 +56,13 @@
 <p align="left">
   <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Grafana" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
   <img align="center" alt="n8n" height="40" width="50" src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/n8n.svg">
- </p>
+</p>
 
 ---
-
-### 🚀 Projetos em Destaque
-
+ ### 🚀 Projetos em Destaque
+<!--
 <table align="center">
 <tr>
 <td width="50%" align="center">
@@ -103,7 +103,7 @@
 </td>
 </tr>
 </table>
-
+ -->
 <p align="center">
   <i>💼 Além destes, tenho +20 repositórios privados em desenvolvimento, incluindo projetos com IA, automação, APIs e dashboards.</i>
 </p>
