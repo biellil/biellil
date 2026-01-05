@@ -3,9 +3,9 @@
 <h3 align="center">Desenvolvedor Front-End apaixonado por criar experiências web incríveis</h3>
 
 <p align="center">
-  <a href="https://biellil.github.io/portfolio/">
+  <!-- <a href="https://biellil.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/josé-gabriel-683b5423a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
