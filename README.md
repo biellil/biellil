@@ -19,7 +19,7 @@
 ### 👨‍💻 Sobre Mim
 
 - 🚀 Desenvolvedor Front-End com experiência em React, TypeScript e JavaScript
-- 📱 Experiência com desenvolvimento mobile (Flutter, Android/Kotlin)
+- 📱 Experiência com desenvolvimento mobile (React Native, Ionic)
 - 🎨 Focado em criar interfaces modernas, responsivas e acessíveis
 - 🤖 Explorando automação com n8n e AI Agents/LLMs
 - 📚 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
@@ -48,8 +48,8 @@
 
 #### 📱 Mobile
 <p align="left">
-  <img align="center" alt="Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="React Native" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ionic" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
 </p>
 
 #### 🔧 DevOps & Automação
@@ -63,18 +63,46 @@
 
 ### 🚀 Projetos em Destaque
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/biellil/CoffeeDelivery">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=biellil&repo=CoffeeDelivery&theme=tokyonight&hide_border=true" />
+  </a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/biellil/ReactFlix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=biellil&repo=ReactFlix&theme=tokyonight&hide_border=true" />
+  </a>
+</td>
+</tr>
 
-[![CoffeeDelivery](https://github-readme-stats.vercel.app/api/pin/?username=biellil&repo=CoffeeDelivery&theme=tokyonight&hide_border=true)](https://github.com/biellil/CoffeeDelivery)
-[![ReactFlix](https://github-readme-stats.vercel.app/api/pin/?username=biellil&repo=ReactFlix&theme=tokyonight&hide_border=true)](https://github.com/biellil/ReactFlix)
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/biellil/NutriTable">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=biellil&repo=NutriTable&theme=tokyonight&hide_border=true" />
+  </a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/biellil/challenge-smartsite-front-end">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=biellil&repo=challenge-smartsite-front-end&theme=tokyonight&hide_border=true" />
+  </a>
+</td>
+</tr>
 
-[![NutriTable](https://github-readme-stats.vercel.app/api/pin/?username=biellil&repo=NutriTable&theme=tokyonight&hide_border=true)](https://github.com/biellil/NutriTable)
-[![challenge-smartsite-front-end](https://github-readme-stats.vercel.app/api/pin/?username=biellil&repo=challenge-smartsite-front-end&theme=tokyonight&hide_border=true)](https://github.com/biellil/challenge-smartsite-front-end)
-
-[![Ignite-Timer](https://github-readme-stats.vercel.app/api/pin/?username=biellil&repo=Ignite-Timer&theme=tokyonight&hide_border=true)](https://github.com/biellil/Ignite-Timer)
-[![TodoLits](https://github-readme-stats.vercel.app/api/pin/?username=biellil&repo=TodoLits&theme=tokyonight&hide_border=true)](https://github.com/biellil/TodoLits)
-
-</div>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/biellil/Ignite-Timer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=biellil&repo=Ignite-Timer&theme=tokyonight&hide_border=true" />
+  </a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/biellil/TodoLits">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=biellil&repo=TodoLits&theme=tokyonight&hide_border=true" />
+  </a>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <i>💼 Além destes, tenho +20 repositórios privados em desenvolvimento, incluindo projetos com IA, automação, APIs e dashboards.</i>
