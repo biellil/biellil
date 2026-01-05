@@ -19,9 +19,11 @@
 ### 👨‍💻 Sobre Mim
 
 - 🚀 Desenvolvedor Front-End com experiência em React, TypeScript e JavaScript
+- 📱 Experiência com desenvolvimento mobile (Flutter, Android/Kotlin)
 - 🎨 Focado em criar interfaces modernas, responsivas e acessíveis
+- 🤖 Explorando automação com n8n e AI Agents/LLMs
 - 📚 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
-- 💡 Interessado em desenvolvimento web, UI/UX e inovação tecnológica
+- 💡 Interessado em desenvolvimento web, mobile, UI/UX e inovação tecnológica
 
 ---
 
@@ -31,14 +33,35 @@
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Firebase" height="40" width="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="n8n" height="40" width="50" src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/n8n.svg">
 </p>
+
+---
+
+### 🚀 Projetos em Destaque
+
+<div align="center">
+
+[![CoffeeDelivery](https://github-readme-stats.vercel.app/api/pin/?username=biellil&repo=CoffeeDelivery&theme=tokyonight&hide_border=true)](https://github.com/biellil/CoffeeDelivery)
+[![ReactFlix](https://github-readme-stats.vercel.app/api/pin/?username=biellil&repo=ReactFlix&theme=tokyonight&hide_border=true)](https://github.com/biellil/ReactFlix)
+
+[![NutriTable](https://github-readme-stats.vercel.app/api/pin/?username=biellil&repo=NutriTable&theme=tokyonight&hide_border=true)](https://github.com/biellil/NutriTable)
+[![challenge-smartsite-front-end](https://github-readme-stats.vercel.app/api/pin/?username=biellil&repo=challenge-smartsite-front-end&theme=tokyonight&hide_border=true)](https://github.com/biellil/challenge-smartsite-front-end)
+
+[![Ignite-Timer](https://github-readme-stats.vercel.app/api/pin/?username=biellil&repo=Ignite-Timer&theme=tokyonight&hide_border=true)](https://github.com/biellil/Ignite-Timer)
+[![TodoLits](https://github-readme-stats.vercel.app/api/pin/?username=biellil&repo=TodoLits&theme=tokyonight&hide_border=true)](https://github.com/biellil/TodoLits)
+
+</div>
 
 ---
 
@@ -51,6 +74,14 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=biellil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🏆 Conquistas GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=biellil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
