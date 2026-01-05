@@ -29,22 +29,35 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
+#### 💻 Frontend
 <p align="left">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</p>
+
+#### ⚙️ Backend
+<p align="left">
+  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Firebase" height="40" width="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+</p>
+
+#### 📱 Mobile
+<p align="left">
   <img align="center" alt="Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Firebase" height="40" width="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</p>
+
+#### 🔧 DevOps & Automação
+<p align="left">
   <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="n8n" height="40" width="50" src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/n8n.svg">
-</p>
+ </p>
 
 ---
 
@@ -62,6 +75,10 @@
 [![TodoLits](https://github-readme-stats.vercel.app/api/pin/?username=biellil&repo=TodoLits&theme=tokyonight&hide_border=true)](https://github.com/biellil/TodoLits)
 
 </div>
+
+<p align="center">
+  <i>💼 Além destes, tenho +20 repositórios privados em desenvolvimento, incluindo projetos com IA, automação, APIs e dashboards.</i>
+</p>
 
 ---
 
@@ -83,6 +100,22 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=biellil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
+
+---
+
+### 📈 Gráfico de Atividade
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biellil&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+### 💼 Contribuições em Organizações
+
+<p align="center">
+  <i>Contribuidor ativo em projetos da <b>Scripts-front</b> com +97 commits em APIs e sistemas enterprise</i>
+</p>
 
 ---
 
