@@ -35,6 +35,9 @@
   <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Firebase" height="40" width="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </p>
 
 ---
@@ -42,8 +45,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biellil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellil&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&hide=cMake"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biellil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellil&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
 </div>
 
 <div align="center">
