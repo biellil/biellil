@@ -68,6 +68,14 @@
 
 ---
 
+### 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/biellil/biellil/output/ocean.gif" alt="Snake animation" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=biellil&color=blueviolet&style=flat-square&label=Visitantes" alt="Profile views" />
 </p>
