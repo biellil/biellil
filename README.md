@@ -71,7 +71,7 @@
 ### 🐍 Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/biellil/biellil/output/ocean.gif" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/biellil/biellil/output/github-snake-auto.svg" alt="Snake animation" />
 </p>
 
 ---
