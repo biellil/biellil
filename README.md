@@ -42,12 +42,12 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biellil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellil&layout=compact&theme=tokyonight&count_private=false&langs_count=6&hide=cMake"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biellil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biellil&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&hide=cMake"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biellil&theme=tokyonight" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=biellil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
