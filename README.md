@@ -1,6 +1,6 @@
  <h1 align="center">Olá, eu sou José Gabriel (biellil) 👋</h1>
 
-<h3 align="center">Desenvolvedor Front-End apaixonado por criar experiências web incríveis, com experiência em automação, IA, Docker e VPS, explorando Back-End</h3>
+<h3 align="center">Desenvolvedor Full Stack & DevOps — construindo desde interfaces até infraestrutura, com foco em automação, IA e sistemas escaláveis</h3>
 
 <p align="center">
   <!-- <a href="https://biellil.github.io/portfolio/">
@@ -18,12 +18,13 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🚀 Desenvolvedor Front-End com experiência em React, TypeScript e JavaScript
+- 🚀 Desenvolvedor Full Stack com experiência em React, TypeScript, Node.js e Python
+- 🔧 Construo e mantenho APIs REST, integrações e sistemas backend escaláveis
 - 📱 Experiência com desenvolvimento mobile (React Native, Ionic)
 - 🎨 Focado em criar interfaces modernas, responsivas e acessíveis
-- 🤖 Explorando automação com n8n e AI Agents/LLMs
+- 🐳 DevOps com Docker, Linux, VPS e monitoramento via Grafana
+- 🤖 Automação com n8n, AI Agents e LLMs aplicados a fluxos reais
 - 📚 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
-- 💡 Interessado em desenvolvimento web, mobile, UI/UX e inovação tecnológica
 
 ---
 
@@ -41,8 +42,13 @@
 #### ⚙️ Backend
 <p align="left">
   <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Express" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="NestJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="FastAPI" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Redis" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   <img align="center" alt="Firebase" height="40" width="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
 </p>
 
@@ -56,7 +62,10 @@
 <p align="left">
   <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Nginx" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+  <img align="center" alt="GitHub Actions" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg">
   <img align="center" alt="Grafana" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
+  <img align="center" alt="Cloudflare" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg">
   <img align="center" alt="n8n" height="40" width="50" src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/n8n.svg">
 </p>
 
@@ -142,7 +151,7 @@
 ### 💼 Contribuições em Organizações
 
 <p align="center">
-  <i>Contribuidor ativo em projetos da <b>Scripts-front</b> com +97 commits em APIs e sistemas enterprise</i>
+  <i>Contribuidor ativo em projetos da <b>Scripts-front</b> com +97 commits em APIs, sistemas enterprise e integrações Full Stack</i>
 </p>
 
 ---
